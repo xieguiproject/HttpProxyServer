@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<baspools>
+        
+        <bas>
+                <Platfrom>XiciProxyGet</Platfrom>
+                <Time>10分钟</Time>
+        </bas>
+        <bas>
+                <Platfrom>D66ipProxyGet</Platfrom>
+        </bas>
+        <bas>
+                <Platfrom>Data5uProxyGet</Platfrom>
+        </bas>
+        <bas>
+                <Platfrom>KuaiDaiLiProxyGet</Platfrom>
+        </bas>
+</baspools>

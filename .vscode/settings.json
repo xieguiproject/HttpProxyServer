@@ -1,0 +1,3 @@
+{
+    "python.linting.enabled": false //添加这行代码
+}

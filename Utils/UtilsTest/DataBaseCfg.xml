@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<baspools>
+        <bas>
+                <DataBaseType>Mysql</DataBaseType>
+                <DataBaseHost>localhost</DataBaseHost>
+                <DataBasePort>3306</DataBasePort>
+                <DataBaseUser>root</DataBaseUser>
+                <DataBasePasswd>xieigui1314520</DataBasePasswd>
+        </bas>
+</baspools>
